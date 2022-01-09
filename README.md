@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohit Singh aka @Mohwit
+- 👋 Hi, I’m Mohit Singh
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Deep Learning.
 - 💞️ I’m looking to collaborate on machine learning projects.
